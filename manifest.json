@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "paulistoff.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "paulistoff.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "categories": [
+    "entertainment",
+    "music"
+  ]
+}
